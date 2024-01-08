@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033111999664",
+    "project_id": "five-d043f",
+    "storage_bucket": "five-d043f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033111999664:android:907c49c972367787c65775",
+        "android_client_info": {
+          "package_name": "com.example.five_days_forecast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWYxm12tIllxRU49LW2_kG9iH1R8vTOO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
